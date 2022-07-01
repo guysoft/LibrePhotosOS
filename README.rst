@@ -18,6 +18,7 @@ How to use it?
 #. Boot the Pi from the SD card
 #. Hostname is ``librephotosos`` (not ``raspberrypi`` as usual), username: ``ubuntu`` and inital password is: ``ubuntu``
 #. After a few mintues you should be able to access ``http://librephotosos.local/`` or ``http://librephotosos.lan/``
+#. Create your librephotos account by finishing up the first time setup via the web interface
 #. You can change the settings of the docker settings are located at ``/boot/docker-compose/librephotos/``
 
 
